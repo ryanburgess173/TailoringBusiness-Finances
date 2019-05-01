@@ -1,0 +1,13 @@
+C:\Users\ryanb\source\repos\Finances\Finances\bin\Debug\TailoringBusiness.accdb
+C:\Users\ryanb\source\repos\Finances\Finances\bin\Debug\Finances.exe.config
+C:\Users\ryanb\source\repos\Finances\Finances\bin\Debug\Finances.exe
+C:\Users\ryanb\source\repos\Finances\Finances\bin\Debug\Finances.pdb
+C:\Users\ryanb\source\repos\Finances\Finances\bin\Debug\Finances.xml
+C:\Users\ryanb\source\repos\Finances\Finances\obj\Debug\Finances.vbprojAssemblyReference.cache
+C:\Users\ryanb\source\repos\Finances\Finances\obj\Debug\Finances.Form1.resources
+C:\Users\ryanb\source\repos\Finances\Finances\obj\Debug\Finances.Resources.resources
+C:\Users\ryanb\source\repos\Finances\Finances\obj\Debug\Finances.vbproj.GenerateResource.cache
+C:\Users\ryanb\source\repos\Finances\Finances\obj\Debug\Finances.vbproj.CoreCompileInputs.cache
+C:\Users\ryanb\source\repos\Finances\Finances\obj\Debug\Finances.exe
+C:\Users\ryanb\source\repos\Finances\Finances\obj\Debug\Finances.xml
+C:\Users\ryanb\source\repos\Finances\Finances\obj\Debug\Finances.pdb
